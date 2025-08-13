@@ -8,10 +8,12 @@ These maps support agricultural monitoring, food security assessment, and region
 Ginting, F.I., Rudiyanto, R., Fatchurrachman, F., Mohd Shah, R., Che Soh, N., Goh Eng Giap, S., Fiantis, D., Setiawan, B.I., Schiller, S., Davitt, A., & Minasny, B. (2025). *High-resolution maps of rice cropping intensity across Southeast Asia*. Scientific Data, 12, 1408. https://doi.org/10.1038/s41597-025-05722-1  
 
 **Dataset repository:**  
-Ginting, F.I., Rudiyanto, R., Fatchurrachman, F., Mohd Shah, R., Che Soh, N., Goh Eng Giap, S., Fiantis, D., Setiawan, B.I., Schiller, S., Davitt, A., & Minasny, B. (2025). *Open-SEA-Rice-10: High-resolution maps of rice cropping intensity across Southeast Asia*. Zenodo. https://doi.org/10.5281/zenodo.14627003
+Ginting, F.I., Rudiyanto, R., Fatchurrachman, F., Mohd Shah, R., Che Soh, N., Goh Eng Giap, S., Fiantis, D., Setiawan, B.I., Schiller, S., Davitt, A., & Minasny, B. (2025). *Open-SEA-Rice-10: High-resolution maps of rice cropping intensity across Southeast Asia*. Zenodo. https://doi.org/10.5281/zenodo.14627003  
 
-**Interactive map visualization:** 
+**Interactive map:**  
+An interactive map of rice cropping intensity across Southeast Asia (original data resolution) is available via the following Google Earth Engine app:  
+https://ee-rudiyanto.projects.earthengine.app/view/open-sea-rice-10  
 
-An interactive map visualization of the original data resolution for rice cropping intensity across Southeast Asia are available through the following Google Earth Engine app: https://ee-rudiyanto.projects.earthengine.app/view/open-sea-rice-10. 
+**Contact:**  
+📧 rudiyanto@umt.edu.my
 
-Contact: rudiyanto@umt.edu.my
