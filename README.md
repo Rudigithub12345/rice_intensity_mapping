@@ -11,6 +11,7 @@ Ginting, F.I., Rudiyanto, R., Fatchurrachman, F., Mohd Shah, R., Che Soh, N., Go
 Ginting, F.I., Rudiyanto, R., Fatchurrachman, F., Mohd Shah, R., Che Soh, N., Goh Eng Giap, S., Fiantis, D., Setiawan, B.I., Schiller, S., Davitt, A., & Minasny, B. (2025). *Open-SEA-Rice-10: High-resolution maps of rice cropping intensity across Southeast Asia*. Zenodo. https://doi.org/10.5281/zenodo.14627003
 
 **Interactive map visualization:** 
+
 An interactive map visualization of the original data resolution for rice cropping intensity across Southeast Asia are available through the following Google Earth Engine app: https://ee-rudiyanto.projects.earthengine.app/view/open-sea-rice-10. 
 
 Contact: rudiyanto@umt.edu.my
