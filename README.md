@@ -1,6 +1,6 @@
 # Rice Intensity Mapping: Source Code
 
-This repository contains scripts and workflows for mapping rice cropping intensity across Southeast Asia using multi-temporal Sentinel-1 and Sentinel-2 satellite imagery and Google Earth Engine for cloud-based geospatial processing. The outputs include high-resolution (10 m) annual maps of rice cropping intensity, enabling the identification of single, double, and triple rice cropping systems.
+This repository contains scripts and workflows for mapping rice cropping intensity across Southeast Asia using multi-temporal Sentinel-1 and Sentinel-2 satellite imagery within the cloud-based geospatial processing platform Google Earth Engine (GEE). The outputs include high-resolution (10 m) annual maps of rice cropping intensity, enabling the identification of single, double, and triple rice cropping systems.
 
 These maps support agricultural monitoring, food security assessment, and regional policy planning by providing consistent, open-access, and reproducible datasets.
 
